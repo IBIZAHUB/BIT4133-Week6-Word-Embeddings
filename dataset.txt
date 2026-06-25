@@ -1,0 +1,8 @@
+I love natural language processing with Python
+Word embeddings are a powerful tool in NLP
+Machine learning is a subset of artificial intelligence
+Deep learning is a type of machine learning
+Python is a popular programming language for data science
+Computers are becoming smarter every day
+NLP tasks include text classification and sentiment analysis
+Word2Vec models learn word associations from a large corpus
